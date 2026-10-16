@@ -12,7 +12,7 @@ That copy states the data license as **Creative Commons Attribution-Share Alike 
 
 ### Why this source
 
-The heart, brain, liver and kidney explorers use BodyParts3D 4.0 downloaded directly from the [official DBCLS archive](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html), whose current license page grants CC BY 4.0. The environment this explorer was built in could not reach that archive. The BodyParts3D 4.3 GitHub copy used by the lungs and pancreas explorers has almost no skeletal muscles (a search found only the intercostals, the papillary muscles of the heart, the uvular muscle and the eye muscles), so this explorer uses the 3.0 STL copy, like the spleen and bladder explorers. Following the heart explorer's rule of relying on the terms attached to the copy actually downloaded, it uses the share-alike license.
+The heart, brain, liver and kidney explorers use BodyParts3D 4.0 downloaded directly from the [official DBCLS archive](https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html), whose current license page grants CC BY 4.0. The environment this explorer was built in could not reach that archive. The BodyParts3D 4.3 GitHub copy used by the lungs and pancreas explorers has none of the limb, back or abdominal wall muscles (it has the intercostals and some head and throat muscles, such as the eye, pharyngeal and soft-palate muscles), so this explorer uses the 3.0 STL copy, like the spleen and bladder explorers. Following the heart explorer's rule of relying on the terms attached to the copy actually downloaded, it uses the share-alike license.
 
 Authoritative sources:
 
